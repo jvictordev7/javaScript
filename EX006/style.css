@@ -1,2 +1,10 @@
 @charset "UTF-8";
 
+div#area {
+    font: normal 20pt arial;
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
